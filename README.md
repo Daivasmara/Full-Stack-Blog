@@ -1,6 +1,6 @@
 # Full-Stack Blog!
 
-A simple Fullstack Blog created with MEVN stacks (MongoDB, Express, Vue.js, Node.js)! This is my own learning project to experiment with monk and joi. This blog able to do all CRUD (Create, Read, Update and Delete) functions.
+A simple Fullstack Blog created with MEVN stacks (MongoDB, Express, Vue.js, Node.js)! This is my own learning project to experiment with monk and joi. This blog able to do all CRUD (Create, Read, Update and Delete) functions and has a solid validation system.
 
 ## Client
 ![Client](client/screenshoots/client.gif)
